@@ -1,1 +1,1 @@
-Step-by-step offline setup guide for activating AnyDesk
+Secure remote desktop with AnyDesk — download free for Windows.
